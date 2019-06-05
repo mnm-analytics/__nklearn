@@ -95,3 +95,6 @@ class Node:
             _y = node.get_label(x)
             pred.append(_y)
         return pred
+
+if __name__ == "__main__":
+    pass
